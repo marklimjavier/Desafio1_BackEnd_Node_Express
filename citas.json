@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "nombre": "mario",
+        "edad": "9",
+        "animal": "perro",
+        "color": "negro",
+        "enfermedad": "alzeimer"
+    },
+    {
+        "id": 2,
+        "nombre": "Benito",
+        "edad": "2 años",
+        "animal": "perro",
+        "color": "blanco",
+        "enfermedad": "vomitos"
+    }
+]
